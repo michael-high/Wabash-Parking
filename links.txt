@@ -1,0 +1,7 @@
+openCV
+    https://docs.opencv.org/4.x/d5/de5/tutorial_py_setup_in_windows.html
+
+    https://github.com/opencv/opencv
+
+github pages on topic: https://github.com/topics/parking-management?l=python&o=desc&s=forks
+
