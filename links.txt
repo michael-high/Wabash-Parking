@@ -5,3 +5,6 @@ openCV
 
 github pages on topic: https://github.com/topics/parking-management?l=python&o=desc&s=forks
 
+solid bet:
+    https://github.com/ankit1khare/Smart-Park-with-YOLO-V3
+
