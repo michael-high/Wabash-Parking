@@ -3,6 +3,10 @@ openCV
 
     https://github.com/opencv/opencv
 
+    https://sourceforge.net/projects/opencvlibrary/
+
+    https://docs.opencv.org/
+
 github pages on topic: https://github.com/topics/parking-management?l=python&o=desc&s=forks
 
 solid bet:
